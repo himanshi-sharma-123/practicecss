@@ -1,0 +1,50 @@
+
+*{
+    text-align: center;
+   
+    
+}
+@media screen and (max-width: 300px) {
+    body{
+        background-color: lightblue;
+    }
+}
+h1{
+    color: blueviolet;
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+
+.container{
+    background-color: yellow;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+   
+}
+
+.name{
+    background-color: cadetblue;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    letter-spacing: 2px;
+
+}
+
+.input{
+    background-color: black;
+}
+
+.submit{
+    background-color: red;
+   margin-left: 200px;
+   margin-right: 200px;
+   
+}
+
+button:hover{
+    color: orangered;
+    font-size: 1.5em;
+}
